@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF was created with the help of an in-built macOS screen recorder and Adobe Video to GIF converter. 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -33,7 +33,7 @@ GIF created with ...
 
 ## Notes
 
-I had to review some of the dom manipulation concepts. Getting a secret key for some of the challenges were tricky. 
+I had to review some of the DOM manipulation concepts. Getting secret keys for some of the challenges were tricky. 
 
 ## License
 
